@@ -1,0 +1,17 @@
+# some information about you
+name: " "
+nickname: ""
+image: "images/default-avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "cCOCA4AI Comprehensive Carbon Footprint for AIint  Data Centers"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "janedoe@example.com"
+  phone: "+0123456789"
+
+# a summary of what you do
+summary:
+- Measure how much your Deep Learning Consume
+
